@@ -23,3 +23,4 @@
    - M = modificado
    - U = nuevos, aun no existen en el repositorio 
    - D = eliminado
+- git clone: clona un repositorio en tu equipo local
