@@ -18,3 +18,4 @@
   - rm -r : elimina carpetas de manera recursiva
 - echo : imprime variables de entorno del sistema
 ## Git
+- git clone: clona un repositorio en tu equipo local
