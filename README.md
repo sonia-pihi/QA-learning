@@ -18,3 +18,8 @@
   - rm -r : elimina carpetas de manera recursiva
 - echo : imprime variables de entorno del sistema
 ## Git
+- git init: para iniciar el proyecto
+- git status: inprime el estado de los archivos en el repositorio
+   - M = modificado
+   - U = nuevos, aun no existen en el repositorio 
+   - D = eliminado
