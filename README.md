@@ -19,3 +19,7 @@
 - echo : imprime variables de entorno del sistema
 ## Git
 - git clone: clona un repositorio en tu equipo local
+
+## Creación de login con playwright
+
+Objetivo: Automatizar el inicio de sesión con Playwright
