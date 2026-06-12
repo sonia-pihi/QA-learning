@@ -24,3 +24,11 @@
    - U = nuevos, aun no existen en el repositorio 
    - D = eliminado
 - git clone: clona un repositorio en tu equipo local
+- git branch: para ver las ramas que hay en el repositorio local
+   - git branch -r: ver las ramas que hay en repositorio remoto
+   - git branch -d: borrar una rama en el repositorio local
+- git fetch: trae la informacion nueva del repositorio remoto, sin modificar el repositorio local
+- git switch: cambiar de rama
+   - git switch --track:crear una nueva rama desde una rama remota
+- git stash: guarda temporalmente lo cambios de mi rama, que un no se quiere hacer commit 
+   - git stash pop:aplicar los ultimos cambios guardados en la rama local y elimina el stash de la lista
